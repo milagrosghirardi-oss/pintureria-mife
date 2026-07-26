@@ -1,0 +1,16 @@
+# despliegue/docker-compose.yml
+services:
+  asistente:
+    build:
+      context: ..
+      dockerfile: despliegue/Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      LLM_PROVIDER: "${LLM_PROVIDER:-mock}"
+      ANTHROPIC_API_KEY: "${ANTHROPIC_API_KEY:-}"
+    volumes:
+      - mife-data:/app/data
+
+volumes:
+  mife-data:

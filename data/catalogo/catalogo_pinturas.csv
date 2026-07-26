@@ -1,0 +1,32 @@
+sku,marca,linea,acabado,uso,color,rendimiento_m2_por_litro,manos_incluidas_en_rendimiento,presentacion_litros,precio_ars,stock
+MIFE-CM-LI-MAT-BLA-1,ColorMax,Latex Interior,Mate,Interior,Blanco,10,no,1,6500,25
+MIFE-CM-LI-MAT-BLA-4,ColorMax,Latex Interior,Mate,Interior,Blanco,10,no,4,22000,0
+MIFE-CM-LI-MAT-BLA-20,ColorMax,Latex Interior,Mate,Interior,Blanco,10,no,20,98000,4
+MIFE-CM-LI-SAT-BLA-4,ColorMax,Latex Interior,Satinado,Interior,Blanco,9,no,4,25000,10
+MIFE-RM-LI-MAT-BLA-1,Recubrimax,Latex Interior,Mate,Interior,Blanco,9,no,1,5800,18
+MIFE-RM-LI-MAT-BLA-4,Recubrimax,Latex Interior,Mate,Interior,Blanco,9,no,4,20000,15
+MIFE-RM-LI-MAT-BLA-20,Recubrimax,Latex Interior,Mate,Interior,Blanco,9,no,20,88000,2
+MIFE-TS-LI-MAT-BLA-4,TonoSur,Latex Interior,Mate,Interior,Blanco,10.5,no,4,23500,8
+MIFE-TS-LI-MAT-BLA-20,TonoSur,Latex Interior,Mate,Interior,Blanco,10.5,no,20,102000,0
+MIFE-TS-LI-SAT-BLA-4,TonoSur,Latex Interior,Satinado,Interior,Blanco,9.5,no,4,26500,6
+MIFE-CM-LI-MAT-BEI-4,ColorMax,Latex Interior,Mate,Interior,Beige,10,no,4,22000,7
+MIFE-CM-LI-MAT-GRI-4,ColorMax,Latex Interior,Mate,Interior,Gris Perla,10,no,4,22000,5
+MIFE-CM-LE-MAT-BLA-4,ColorMax,Latex Exterior,Mate,Exterior,Blanco,8,no,4,28000,9
+MIFE-CM-LE-MAT-BLA-20,ColorMax,Latex Exterior,Mate,Exterior,Blanco,8,no,20,125000,0
+MIFE-RM-LE-MAT-BLA-4,Recubrimax,Latex Exterior,Mate,Exterior,Blanco,7.5,no,4,26000,12
+MIFE-RM-LE-MAT-BLA-20,Recubrimax,Latex Exterior,Mate,Exterior,Blanco,7.5,no,20,118000,3
+MIFE-TS-LE-MAT-BLA-4,TonoSur,Latex Exterior,Mate,Exterior,Blanco,8.5,no,4,29500,10
+MIFE-CM-ES-BRI-BLA-1,ColorMax,Esmalte Sintetico,Brillante,Metal/Madera,Blanco,12,no,1,13500,20
+MIFE-CM-ES-BRI-NEG-1,ColorMax,Esmalte Sintetico,Brillante,Metal/Madera,Negro,12,no,1,13500,14
+MIFE-CM-ES-3EN1-NEG-1,ColorMax,Esmalte Sintetico 3en1,Brillante,Metal,Negro,11,no,1,17500,9
+MIFE-RM-ES-BRI-BLA-1,Recubrimax,Esmalte Sintetico,Brillante,Metal/Madera,Blanco,11,no,1,12500,0
+MIFE-TS-ES-BRI-BLA-1,TonoSur,Esmalte Sintetico,Brillante,Metal/Madera,Blanco,12.5,no,1,14000,16
+MIFE-CM-EA-SAT-BLA-1,ColorMax,Esmalte al Agua,Satinado,Metal/Madera,Blanco,10,no,1,14500,11
+MIFE-TS-EA-SAT-BLA-1,TonoSur,Esmalte al Agua,Satinado,Metal/Madera,Blanco,10.5,no,1,15000,7
+MIFE-CM-IMP-BLA-4,ColorMax,Impermeabilizante Techos,Mate,Exterior,Blanco,1.2,si,4,42000,6
+MIFE-CM-IMP-BLA-20,ColorMax,Impermeabilizante Techos,Mate,Exterior,Blanco,1.2,si,20,185000,2
+MIFE-RM-IMP-BLA-20,Recubrimax,Impermeabilizante Techos,Mate,Exterior,Blanco,1,si,20,172000,0
+MIFE-TS-IMP-BLA-20,TonoSur,Impermeabilizante Techos,Mate,Exterior,Blanco,1.3,si,20,192000,4
+MIFE-CM-FIJ-INC-4,ColorMax,Fijador,Incoloro,Interior/Exterior,Incoloro,12,no,4,17000,10
+MIFE-TS-FIJ-INC-4,TonoSur,Fijador,Incoloro,Interior/Exterior,Incoloro,12,no,4,17500,8
+MIFE-CM-ANT-GRI-1,ColorMax,Antioxido,Mate,Metal,Gris,10,no,1,11000,15
