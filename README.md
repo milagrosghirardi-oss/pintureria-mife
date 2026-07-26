@@ -1,4 +1,6 @@
 # Asistente de Cotizaciones — Pinturería MIFE
+![Demo funcionando](docs/demo-consola.png)
+
 
 Asistente interno para vendedores de una pinturería ficticia: recibe el pedido de un cliente
 (texto, o audio ya transcripto), busca el producto correcto en el catálogo técnico, calcula
